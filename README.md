@@ -16,18 +16,15 @@ You can click the Preview link to take a look at your changes.
   
   <div align=center>
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=Hello,+World!!!&section=header&reversal=false"/>
-   
+    <img src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="100%"/>
+    <p align="right"><a href="https://giphy.com/gifs/perfect-loops-9LZTcawH3mc8V2oUqk">via GIPHY</a></p>  
   </div>
+  
+  ##
+  
   <br/>
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuu!!!;A+Software+Engineer+Student!;&color=ff3399" alt="Typing SVG" />
-  </div>
-  
-  <div>
-    <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
-    <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
-    <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="300" />
-
   </div>
 
   <div align="center">
@@ -35,8 +32,9 @@ You can click the Preview link to take a look at your changes.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miyuu&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuu&layout=compact&langs_count=7&theme=panda"/>
   </div>
+      
   <div>
-  
+    
   ## :hammer_and_wrench: Tech Stacks
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
@@ -64,4 +62,12 @@ You can click the Preview link to take a look at your changes.
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker) 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
   </div> 
+
+  <div>
+    <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
+    <img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/>
+    <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="300" />
+  </div>
 </div>
+
+
